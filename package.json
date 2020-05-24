@@ -1,0 +1,20 @@
+{
+  "name": "sockets",
+  "version": "1.0.0",
+  "description": "simple websocket app",
+  "main": "app.js",
+  "dependencies": {
+    "ws": "^7.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "js",
+    "socket"
+  ],
+  "author": "Danny <dantes817@gmail.com>",
+  "license": "ISC"
+}

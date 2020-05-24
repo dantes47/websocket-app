@@ -1,0 +1,40 @@
+body {
+    background-color: darkred;
+    color: cadetblue;
+    font-family: 'MS Comic Sans', monospace;
+}
+
+header {
+    text-align: center;
+}
+
+#messages {
+    margin-left: 1em;
+    list-style: none;
+}
+
+#form {
+    display: block;
+}
+
+input, label {
+    display: block;
+}
+
+input {
+    outline: none;
+    border: none;
+    background-color: darkred;
+    color: cadetblue;
+    padding: 1em .5em;
+    display: block;
+    font-size: 1.5em;
+    font-family: 'MS Comic Sans', monospace;
+    flex: 1;
+}
+
+label {
+    display: block;
+    padding: 1em .5em;
+    font-size: 1.5em;
+}
